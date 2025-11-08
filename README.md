@@ -1,43 +1,33 @@
-# .github-repo
+# DazzleNodes Organization Profile
 
-$badges
+This repository contains the organization profile and community health files for **DazzleNodes**.
 
-DazzleNodes organization profile and community health files
+## What is This Repository?
 
-## Overview
+The `.github` repository is a special GitHub repository that provides organization-wide community health files and the organization profile README that displays on the [DazzleNodes organization page](https://github.com/DazzleNodes).
 
-## Features
+## Contents
 
-- Feature 1
-- Feature 2
-- Feature 3
+- **profile/README.md** - Organization profile displayed at https://github.com/DazzleNodes
+- **.github/FUNDING.yml** - Sponsor button configuration
+- **.github/CODEOWNERS** - Default code owners for organization repositories
+- **.github/ISSUE_TEMPLATE/** - Default issue templates
 
-## Installation
+## About DazzleNodes
 
-```bash
-# Installation instructions here
-```
+DazzleNodes is the ComfyUI custom nodes organization within the DazzleProj ecosystem. We provide productivity custom nodes for AI image generation workflows, making ComfyUI faster and more intuitive.
 
-## Usage
+Part of the **[DazzleProj](https://github.com/DazzleProj)** ecosystem, with strong ties to **[DazzleML](https://github.com/DazzleML)** for AI/ML integration.
 
-```bash
-# Usage examples here
-```
+## Contributing
 
-## Development
+Contributions to improve the organization profile and community health files are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-### Prerequisites
+## Support the Project
 
-- List prerequisites here
+If DazzleNodes saves you time, please consider supporting continued development:
 
-### Setup
-
-```bash
-# Setup instructions here
-```
-
-## Contributions
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on how to contribute.
+**[Become a GitHub Sponsor](https://github.com/sponsors/djdarcy)**
 
 Like the project?
 
@@ -45,8 +35,10 @@ Like the project?
 
 ## License
 
-This project is licensed under the terms specified in the LICENSE file.
+GPL-3.0 - See LICENSE file for details
 
-## Acknowledgements
+## Links
 
-Dustin 6962246+djdarcy@users.noreply.github.com
+- **Main Organization**: [github.com/DazzleProj](https://github.com/DazzleProj)
+- **Website**: [dazzleproj.com](https://dazzleproj.com)
+- **DazzleNodes**: [github.com/DazzleNodes](https://github.com/DazzleNodes)
