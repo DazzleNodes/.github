@@ -42,7 +42,7 @@ Contributions welcome! Each node has its own repository and contribution guideli
 
 ## Community
 
-- **Discussions**: [GitHub Discussions](https://github.com/DazzleNodes/discussions)
+- **Discussions**: [GitHub Discussions](https://github.com/orgs/DazzleNodes/discussions)
 - **Issues**: [Node-specific issue trackers](https://github.com/DazzleNodes)
 - **ComfyUI Community**: [Official ComfyUI Discussions](https://github.com/comfyanonymous/ComfyUI/discussions)
 - **Workflow Sharing**: Post your DazzleNodes workflows in discussions!
