@@ -43,7 +43,6 @@ Contributions welcome! Each node has its own repository and contribution guideli
 ## Community
 
 - **Discussions**: [GitHub Discussions](https://github.com/orgs/DazzleNodes/discussions)
-- **Issues**: [Node-specific issue trackers](https://github.com/DazzleNodes)
 - **ComfyUI Community**: [Official ComfyUI Discussions](https://github.com/comfyanonymous/ComfyUI/discussions)
 - **Workflow Sharing**: Post your DazzleNodes workflows in discussions!
 
@@ -86,6 +85,6 @@ Some nodes may use [DazzleLib](https://github.com/DazzleLib) libraries for file 
 
 - **GitHub**: [@djdarcy](https://github.com/djdarcy)
 - **Issues**: Use node-specific issue trackers
-- **Discussions**: [GitHub Discussions](https://github.com/DazzleNodes/discussions)
+- **Discussions**: [GitHub Discussions](https://github.com/orgs/DazzleNodes/discussions)
 - **Sponsorship**: [GitHub Sponsors](https://github.com/sponsors/djdarcy)
 - **Website**: [DazzleProj.com](https://dazzleproj.com) *(coming soon)*
